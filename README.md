@@ -1,4 +1,4 @@
-### Olá! eu sou o Bruno de Barros
+### Olá! eu sou o Bruno
 
 <div align="left">
   <a href="https://github.com/Brunnodebarros">
