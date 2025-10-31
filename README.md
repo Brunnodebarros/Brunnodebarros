@@ -1,11 +1,6 @@
 ### Olá! eu sou o Bruno
 
-<div align="left">
-  <a href="https://github.com/Brunnodebarros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunnodebarros&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
-</div>
 
-  
   ##
  
 <div> 
